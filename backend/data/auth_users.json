@@ -1,0 +1,70 @@
+{
+  "users": [
+    {
+      "username": "admin001",
+      "email": "admin@smartclassroom.local",
+      "full_name": "System Admin",
+      "role": "admin",
+      "hashed_password": "$pbkdf2-sha256$29000$U4pR6h3DeI/RWmstBQBgTA$u1DhEy/bwtN3Mwyj8CSU3oNv5tz7D3xXcCzPwSzsK7E",
+      "created_at": "2026-04-23T15:28:17.783852+00:00",
+      "updated_at": "2026-04-23T15:28:17.783857+00:00",
+      "last_login_at": null,
+      "id": 1
+    },
+    {
+      "username": "teacher101",
+      "email": "teacher101@example.com",
+      "full_name": "Teacher One",
+      "role": "teacher",
+      "hashed_password": "$pbkdf2-sha256$29000$9X5vDWEMgRBizFkrpfR.bw$If.2PRMb2yFfbv.33CJBCovJJIvdoNBRnZRAJpJVRv4",
+      "created_at": "2026-04-23T15:29:07.497001+00:00",
+      "updated_at": "2026-04-23T15:29:43.128603+00:00",
+      "last_login_at": "2026-04-23T15:29:43.128603+00:00",
+      "id": 2
+    },
+    {
+      "username": "ramasish123",
+      "email": "ramasishmanna09@gmail.com",
+      "full_name": "Ramasish Manna",
+      "role": "admin",
+      "hashed_password": "$pbkdf2-sha256$29000$dI4xpvT.37sXohRiLMU45w$KTwy0P91MpIu4ZHWni.kE9STeBoK3Bc1invARazPpVQ",
+      "created_at": "2026-04-23T15:58:44.805182+00:00",
+      "updated_at": "2026-04-25T16:33:01.818230+00:00",
+      "last_login_at": "2026-04-25T16:33:01.818230+00:00",
+      "id": 3
+    },
+    {
+      "username": "aric001",
+      "email": "aricoaul007@gmail.com",
+      "full_name": "Aric Paul",
+      "role": "student",
+      "hashed_password": "$pbkdf2-sha256$29000$ByDEWOudc45xLuV8LyXE2A$TUmT1dTsDXqw9T1cXR7WH5sc5CMI0PFX9k6n4D8E0PY",
+      "created_at": "2026-04-23T16:00:55.937601+00:00",
+      "updated_at": "2026-04-25T17:01:09.356571+00:00",
+      "last_login_at": "2026-04-25T17:01:09.356571+00:00",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "username": "akinchan01",
+      "email": "abc@gmail.com",
+      "full_name": "Akinchan Nayek",
+      "role": "student",
+      "hashed_password": "$pbkdf2-sha256$29000$L6XUGoPwXgvhPEdoLaW0dg$QX3jJ2I6n49vkF08vYqXc9ZRomszT/XQtt3ZPDNZdKg",
+      "created_at": "2026-04-25T06:18:17.908524+00:00",
+      "updated_at": "2026-04-25T06:18:17.908524+00:00",
+      "last_login_at": "2026-04-25T06:18:17.908524+00:00"
+    },
+    {
+      "id": 6,
+      "username": "ramasish1234",
+      "email": "ramasishmanna6@gmail.com",
+      "full_name": "Ramasish Manna",
+      "role": "admin",
+      "hashed_password": "$pbkdf2-sha256$29000$MOa89z5HaC0FQAhhjDEGgA$Pq4ep8Pp6DyIyZ90crMzpWFPI.4J5P90sG/pFjOM.tI",
+      "created_at": "2026-04-25T16:23:20.088161+00:00",
+      "updated_at": "2026-04-25T16:23:20.088161+00:00",
+      "last_login_at": "2026-04-25T16:23:20.088161+00:00"
+    }
+  ]
+}
