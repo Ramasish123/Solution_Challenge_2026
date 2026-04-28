@@ -29,8 +29,8 @@
       "role": "admin",
       "hashed_password": "$pbkdf2-sha256$29000$dI4xpvT.37sXohRiLMU45w$KTwy0P91MpIu4ZHWni.kE9STeBoK3Bc1invARazPpVQ",
       "created_at": "2026-04-23T15:58:44.805182+00:00",
-      "updated_at": "2026-04-25T16:33:01.818230+00:00",
-      "last_login_at": "2026-04-25T16:33:01.818230+00:00",
+      "updated_at": "2026-04-28T17:00:44.154907+00:00",
+      "last_login_at": "2026-04-28T17:00:44.154907+00:00",
       "id": 3
     },
     {
